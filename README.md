@@ -2,6 +2,8 @@
 
 Lango is a simple interpreted programming language implemented in Go. It supports basic arithmetic operations, variable declarations, control flow statements, and more.
 
+Inspired by [Crafting Interpreters](https://craftinginterpreters.com/) by Robert Nystrom.
+
 ## Table of Contents
 
 1. [Features](#features)
